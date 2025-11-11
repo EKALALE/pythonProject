@@ -16,3 +16,10 @@ elif second > first and second > third :
     print(second,"is the largest nuber")
 else:
     print(third,"is the largest number")
+
+    #Assignment 
+    number = int(input("Enter the number"))
+    if number % 2 = 0 :
+      print (number,"is even")
+    else:
+        print(number,"is odd")
