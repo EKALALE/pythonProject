@@ -10,7 +10,20 @@ print("is python fun",isPythonFun)
 #data structures-multiple values stored in one variable
 #list
 cars = ["Mercedes","Audi","Nissan","Toyota"] #list - ordered and changeable
-print(cars)
+
 #tupple-ordered and unchangeable
 fruits = ("Apple","mango","banana")
+countries={ "kenya","Uganda","France"}#set-unordered &unchangable
+student = {
+    "name":"Felix",
+    "course":"web development",
+    "age":23,
+    "gender":"female"
+
+} #Dictionary - key,value pair
+
+print(cars)
 print(fruits)
+print(countries)
+print(student.get("age"))
+print(student["gender"])
