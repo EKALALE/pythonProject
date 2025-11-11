@@ -22,8 +22,13 @@ student = {
 
 } #Dictionary - key,value pair
 
+
 print(cars)
 print(fruits)
 print(countries)
 print(student.get("age"))
 print(student["gender"])
+# Typecasting - converting one datatype to another
+print(int(68.78))
+print(int(weight))
+print(float(58))
