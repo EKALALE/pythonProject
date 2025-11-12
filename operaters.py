@@ -40,7 +40,9 @@ print(Output)
 print(50 > 16 and 86 < 360 and 50>0)
 print(58 >90 or 70>40)
 print(not ( 60>90 and 69<90))
-
+#assignment
 #Bitwise operators
 #membership operators
+
+
 

@@ -12,10 +12,10 @@ print("weight:",weight,"kg")
 
     #Assignment 
 number = int(input("Enter the number:"))
-if number % 2 == 0 :
+if number == 0:
+  print(number ,"its neutral number")
+elif number % 2 == 0 :
    print("even")
 else:
    print("odd")   
-
-
-print(number)
+print(number,"is:")
